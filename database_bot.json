@@ -1,1 +1,160 @@
+{
+"questions": [
+{
+"id": 1,
+"question": "Apa ibukota Indonesia?",
+"answer": "Jakarta"
+},
+{
+"id": 2,
+"question": "Siapa presiden pertama Indonesia?",
+"answer": "Ir. Soekarno"
+},
+{
+"id": 3,
+"question": "Berapa hasil dari 2 + 2?",
+"answer": "4"
+},
+{
+"id": 4,
+"question": "Apa warna langit pada siang hari yang cerah?",
+"answer": "Biru"
+},
+{
+"id": 5,
+"question": "Siapa penemu lampu pijar?",
+"answer": "Thomas Edison"
+},
+{
+"id": 6,
+"question": "Berapa jumlah provinsi di Indonesia?",
+"answer": "38"
+},
+{
+"id": 7,
+"question": "Apa nama mata uang Jepang?",
+"answer": "Yen"
+},
+{
+"id": 8,
+"question": "Siapa yang menulis novel 'Laskar Pelangi'?",
+"answer": "Andrea Hirata"
+},
+{
+"id": 9,
+"question": "Apa planet terbesar di tata surya?",
+"answer": "Jupiter"
+},
+{
+"id": 10,
+"question": "Berapa jumlah sisi pada segitiga?",
+"answer": "3"
+},
+{
+"id": 11,
+"question": "Siapa pencipta karakter Mickey Mouse?",
+"answer": "Walt Disney"
+},
+{
+"id": 12,
+"question": "Apa hewan tercepat di darat?",
+"answer": "Cheetah"
+},
+{
+"id": 13,
+"question": "Apa nama samudra terbesar di dunia?",
+"answer": "Samudra Pasifik"
+},
+{
+"id": 14,
+"question": "Siapa yang menemukan teori gravitasi?",
+"answer": "Isaac Newton"
+},
+{
+"id": 15,
+"question": "Apa simbol kimia untuk air?",
+"answer": "H2O"
+},
+{
+"id": 16,
+"question": "Apa ibu kota Prancis?",
+"answer": "Paris"
+},
+{
+"id": 17,
+"question": "Siapa ilmuwan yang mengembangkan teori relativitas?",
+"answer": "Albert Einstein"
+},
+{
+"id": 18,
+"question": "Apa nama gunung tertinggi di dunia?",
+"answer": "Gunung Everest"
+},
+{
+"id": 19,
+"question": "Berapa jumlah warna dalam pelangi?",
+"answer": "7"
+},
+{
+"id": 20,
+"question": "Siapa yang menciptakan Facebook?",
+"answer": "Mark Zuckerberg"
+},
+{
+"id": 21,
+"question": "Siapa penemu telepon?",
+"answer": "Alexander Graham Bell"
+},
+{
+"id": 22,
+"question": "Apa nama ibu kota Amerika Serikat?",
+"answer": "Washington, D.C."
+},
+{
+"id": 23,
+"question": "Berapa jumlah pemain dalam satu tim sepak bola?",
+"answer": "11"
+},
+{
+"id": 24,
+"question": "Apa simbol kimia untuk emas?",
+"answer": "Au"
+},
+{
+"id": 25,
+"question": "Siapa penulis novel 'Harry Potter'?",
+"answer": "J.K. Rowling"
+},
+{
+"id": 26,
+"question": "Apa nama ibu kota Italia?",
+"answer": "Roma"
+},
+{
+"id": 27,
+"question": "Apa hewan nasional Australia?",
+"answer": "Kanguru"
+},
+{
+"id": 28,
+"question": "Berapa jumlah benua di dunia?",
+"answer": "7"
+},
+{
+"id": 29,
+"question": "Siapa yang menemukan listrik?",
+"answer": "Benjamin Franklin"
+},
+{
+"id": 30,
+"question": "Apa nama sungai terpanjang di dunia?",
+"answer": "Sungai Nil"
+},
+{
+"id": 31,
+"question": "Apa ibu kota Rusia?",
+"answer": "Moskow"
+     }
+   ]
+}
 
